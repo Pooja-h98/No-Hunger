@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>No Hunger Initiative</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>No Hunger Initiative</h1>
+    <p>Feed the Hungry, Not the Landfills</p>
+    <nav>
+      <a href="#donate">Donate Food</a>
+      <a href="#volunteer">Volunteer</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="donate">
+    <h2>Donate Leftover Food</h2>
+    <p>Have extra food from an event? Let us know and we’ll make sure it reaches someone in need.</p>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type />
+      <input type="text" placeholder="Type of Food" required />
+      <input type="datetime-local" required />
+      <button type="submit">Submit</button>
+    </form>
+  </section>
+
+  <section id="volunteer">
+    <h2>Join as a Volunteer</h2>
+    <p>Help us collect and distribute food to those who need it most.</p>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Email" required />
+      <input type="text" placeholder="City" required />
+      <button type="submit">Register</button>
+    </form>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Have questions or suggestions? Reach out to us!</p>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Email" required />
+      <textarea placeholder="Your Message" required></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 No Hunger Initiative | Designed for a Better Tomorrow</p>
+  </footer>
+</body>
+</html>
