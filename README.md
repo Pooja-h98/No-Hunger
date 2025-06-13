@@ -40,3 +40,22 @@ Core Idea:
      *Promote success stories to attract more donors.
      *Expand to more cities or regions.
      *Seek sponsorships or government support for sustainability.
+
+
+
+
+
+Group members Details 
+Group 3 
+
+Pooja H 
+2023lm70018@wilp.bits-pilani.ac.in
+7975850493
+
+Soubhagya Ranjan Das 
+2023lm70014@wilp.bits-pilani.ac.in 
+7205126449 
+
+vaibhav sinha 
+2023lm70017@wilp.bits-pilani.ac.in 
+8295431901
