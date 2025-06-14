@@ -51,7 +51,7 @@ Group 3
 Pooja H 
 2023lm70018@wilp.bits-pilani.ac.in
 7975850493
-Role : User Research and Testing
+Role : User Research, Development and Testing
 
 Soubhagya Ranjan Das 
 2023lm70014@wilp.bits-pilani.ac.in 
