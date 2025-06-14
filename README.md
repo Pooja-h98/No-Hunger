@@ -51,11 +51,14 @@ Group 3
 Pooja H 
 2023lm70018@wilp.bits-pilani.ac.in
 7975850493
+Role : User Research and Testing
 
 Soubhagya Ranjan Das 
 2023lm70014@wilp.bits-pilani.ac.in 
 7205126449 
+Role: PM,Design and Technical Analyst
 
 vaibhav sinha 
 2023lm70017@wilp.bits-pilani.ac.in 
 8295431901
+Role:Programmer and Technical Analyst
