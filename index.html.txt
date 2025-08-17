@@ -8,8 +8,9 @@
 </head>
 <body>
   <header>
+    <img src="C:\Users\61088181\OneDrive - LTIMindtree\Desktop\Selenium_python\NoHunger\tmp_c2ae13cc-d94f-4395-a0f1-2339ac6314f6.jpeg" alt="">
     <h1>No Hunger Initiative</h1>
-    <p>Feed the Hungry, Not the Landfills</p>
+    <p>Feed the Hungry, Not The Landfills</p>
     <nav>
       <a href="#donate">Donate Food</a>
       <a href="#volunteer">Volunteer</a>
@@ -19,11 +20,12 @@
 
   <section id="donate">
     <h2>Donate Leftover Food</h2>
-    <p>Have extra food from an event? Let us know and we’ll make sure it reaches someone in need.</p>
+    <p>Have extra food ? Please Let Us know And We’ll Make Sure It Reaches Someone In Need.</p>
     <form>
       <input type="text" placeholder="Your Name" required />
-      <input type />
-      <input type="text" placeholder="Type of Food" required />
+      <input type="text" placeholder="Type of Food and Description" required />
+      <input type="text" placeholder="Approximate Amount Of Food" required />
+      <input type="text" placeholder="Pick Up Location" required />
       <input type="datetime-local" required />
       <button type="submit">Submit</button>
     </form>
@@ -31,18 +33,19 @@
 
   <section id="volunteer">
     <h2>Join as a Volunteer</h2>
-    <p>Help us collect and distribute food to those who need it most.</p>
+    <p>Help Us Collect And Distribute Food To Those Who Need It Most.</p>
     <form>
       <input type="text" placeholder="Your Name" required />
       <input type="email" placeholder="Email" required />
       <input type="text" placeholder="City" required />
+      <input type="text" placeholder="Deliverable Range In Km" required />
       <button type="submit">Register</button>
     </form>
   </section>
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>Have questions or suggestions? Reach out to us!</p>
+    <p>Have Questions Or Suggestions? Reach Out To Us!</p>
     <form>
       <input type="text" placeholder="Your Name" required />
       <input type="email" placeholder="Email" required />
@@ -52,7 +55,7 @@
   </section>
 
   <footer>
-    <p>© 2025 No Hunger Initiative | Designed for a Better Tomorrow</p>
+    <p>© 2025 No Hunger Initiative | Designed For A Better Tomorrow</p>
   </footer>
 </body>
 </html>
